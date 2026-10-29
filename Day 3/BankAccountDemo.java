@@ -1,6 +1,5 @@
 public class BankAccountDemo {
     public static void main(String[] args) {
-        // Use new to create an object and call its constructor.
         BankAccount account = new BankAccount("Ravi");
 
         System.out.println("Account holder: " + account.getAccountHolder());

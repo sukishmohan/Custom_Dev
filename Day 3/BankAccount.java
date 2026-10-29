@@ -1,9 +1,7 @@
 public class BankAccount {
-    // Private fields can only be accessed inside this class.
     private String accountHolder;
     private double balance;
 
-    // The constructor sets up a new account with a zero balance.
     public BankAccount(String accountHolder) {
         this.accountHolder = accountHolder;
         this.balance = 0;
