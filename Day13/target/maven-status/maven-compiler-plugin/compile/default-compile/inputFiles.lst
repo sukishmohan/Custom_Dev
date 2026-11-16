@@ -1,9 +1,0 @@
-/Users/sukish/Custum_Dev/Day13/src/main/java/com/example/taskmanager/TaskmanagerApplication.java
-/Users/sukish/Custum_Dev/Day13/src/main/java/com/example/taskmanager/controller/TaskController.java
-/Users/sukish/Custum_Dev/Day13/src/main/java/com/example/taskmanager/dto/TaskRequest.java
-/Users/sukish/Custum_Dev/Day13/src/main/java/com/example/taskmanager/dto/TaskResponse.java
-/Users/sukish/Custum_Dev/Day13/src/main/java/com/example/taskmanager/exception/GlobalExceptionHandler.java
-/Users/sukish/Custum_Dev/Day13/src/main/java/com/example/taskmanager/exception/TaskNotFoundException.java
-/Users/sukish/Custum_Dev/Day13/src/main/java/com/example/taskmanager/model/Task.java
-/Users/sukish/Custum_Dev/Day13/src/main/java/com/example/taskmanager/repository/TaskRepository.java
-/Users/sukish/Custum_Dev/Day13/src/main/java/com/example/taskmanager/service/TaskService.java
