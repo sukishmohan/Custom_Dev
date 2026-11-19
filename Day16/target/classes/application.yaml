@@ -1,0 +1,24 @@
+
+spring:
+  profiles:
+    active: dev
+  application:
+    name: taskmanager
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+  endpoint:
+    health:
+      show-details: always
+  info:
+    env:
+      enabled: true
+
+info:
+  app:
+    name: Task Manager API
+    description: Spring Boot Task Management Application
+    version: 1.0.0
